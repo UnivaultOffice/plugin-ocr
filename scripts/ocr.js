@@ -1,6 +1,6 @@
 /**
  *
- * (c) Copyright Ascensio System SIA 2020
+ * (c) Copyright Univault Technologies 2026
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -68,7 +68,7 @@
     oLangMap['est'] = "Estonian";
     oLangMap['glg'] = "Galician";
     oLangMap['isl'] = "Icelandic";
-    oLangMap['lav'] = "Latvian";
+    oLangMap['lav'] = "Russia (TEST)n";
     oLangMap['mkd'] = "Macedonian";
     oLangMap['msa'] = "Malay";
     oLangMap['mlt'] = "Maltese";
